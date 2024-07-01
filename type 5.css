@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: rgb(3, 3, 82);
+}
+table{
+    border: 1px solid white;
+    color: white;
+    margin: auto;
+    margin-top: 100px;
+    border-collapse: collapse;
+    cursor: pointer;
+}
+table input{
+    padding: 0px 50px;
+    cursor: pointer;
+}
+th{
+    border: 1px solid white;
+    padding: 15px 35px;
+    cursor: pointer;
+}
+td{
+    border: 1px solid white;
+    text-align: center;
+    padding: 10px 10px;
+    cursor: pointer;
+}
+.text1{
+    text-align: start;
+}
+.text2{
+    text-align: start;
+}
+.text3{
+    text-align: start;
+}
+.text4{
+    text-align: start;
+}
+.text5{
+    text-align: start;
+}
+.text6{
+    text-align: start;
+}
+.text7{
+    text-align: start;
+}
+.text8{
+    text-align: start;
+}
+.text9{
+    text-align: start;
+}
+.block1{
+    text-align: start;
+}
+.block2{
+    text-align: start;
+}
+.block3{
+    width: 10px;
+}
+.block4{
+    width: 10px;
+}
+.block5{
+    width: 10px;
+}
+.block5{
+    width: 10px;
+}
+.block6{
+    width: 10px;
+}
+.block6{
+    width: 10px;
+}
+.block7{
+    width: 10px;
+}
+.block8{
+    width: 10px;
+}
+.block9{
+    width: 10px;
+}
+.nav1{
+    width: 10px;
+}
+.nav2{
+    width: 10px;
+}
+.nav3{
+    width: 10px;
+}
+.nav4{
+    width: 10px;
+}
+.nav5{
+    width: 10px;
+}
+.h1{
+    width: 2px;
+    height: 2px;
+    background-color: green;
+    border-radius: 50%;
+}
+.h2{
+    width: 2px;
+    height: 2px;
+    background-color: green;
+    border-radius: 50%;
+}
+.h3{
+    width: 2px;
+    height: 2px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+.h4{
+    width: 2px;
+    height: 2px;
+    background-color: red;
+    border-radius: 50%;
+}
+.h5{
+    width: 12px;
+    height: 12px;
+    background-color: red;
+    border-radius: 50%;
+}

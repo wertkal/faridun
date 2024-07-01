@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+.one{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    color: white;
+    position: relative;
+    left: 500px;
+    top: 500px;
+}
+.two{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    position: relative;
+    left: 600px;
+    top: 200px;
+}
+.three{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    color: white;
+    position: relative;
+    left: 700px;
+    bottom: 100px;
+}
+.fore{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    color: white;
+    position: relative;
+    left: 800px;
+    bottom: 400px;
+}

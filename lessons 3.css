@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+.main{
+    display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+}
+.left{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+.text1{
+    height: 17px;
+}
+@media (max-width:412px) {
+    
+
+
+    
+}

@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+
+}
+.text1{
+    width: 300px;
+    height: 800px;
+    border-right: 2px solid rgb(66, 59, 59);
+    position: fixed;
+}
+.text1 img{
+    position: relative;
+    left: 20px;
+    top: 10px; 
+    background-color: black;
+    color: white;
+    width: 200px;
+}
+#block1{
+    position: relative;
+    top: 40px;
+    right: 170px;
+}
+.block2{
+    font-size: 20px;
+    position: relative;
+    left: 70px;
+    top: 20px;
+}
+#block3{
+    position: relative;
+    left: 35px;
+    top: 60px;
+}
+.block4{
+    font-size: 20px;
+    position: relative;
+    left: 69px;
+    top: 38px;
+}
+#block5{
+    position: relative;
+    left: 35px;
+    top: 75px;
+}
+.block6{
+    font-size: 20px;
+    position: relative;
+    left: 70px;
+    top: 55px ;
+}
+#block7{
+    position: relative;
+    left: 35px;
+    top: 90px;
+}
+.block8{
+    font-size: 20px;
+    position: relative;
+    left: 70px;
+    top: 68px;
+}
+#block9{
+    position: relative;
+    left: 35px;
+    top: 110px;
+}
+.block10{
+    font-size: 20px;
+    position: relative;
+    left: 70px;
+    top: 88px;
+}
+#nav1{
+    position: relative;
+    left: 35px;
+    top: 135px;
+}
+.nav2{
+    font-size: 20px;
+    position: relative;
+    left: 68px;
+    top: 112px;
+}
+#nav3{
+    position: relative;
+    left: 35px;
+    top: 155px;
+}
+.nav4{
+    font-size: 20px;
+    position: relative;
+    left: 68px;
+    top: 133px;
+}
+#nav5{
+    position: relative;
+    left: 35px;
+    top: 175px;
+}
+.nav6{
+    font-size: 20px;
+    position: relative;
+    left: 68px;
+    top: 153px;
+}
+#nav7{
+    position: relative;
+    left: 35px;
+    top: 190px;
+}
+.nav8{
+    font-size: 20px;
+    position: relative;
+    left: 70px;
+    top: 168px;
+}
+.text2 img{
+    position: relative;
+    bottom: 1px;
+    left: 400px;
+}
+.left{
+    display: flex;
+    position: relative;
+    left: 520px;
+    top: 20px;
+}
+.left p{
+    position: relative;
+    top: 2px;
+    left: 10px;
+}
+.left h1{
+    font-size: 17px;
+    
+}
+.lang{
+    position: relative;
+    left: 520px;
+    top: 20px;
+}
+#pro1{
+    position: absolute;
+    left: 960px;
+    bottom:470px;
+}
+.pro2{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 20%;
+    left: 480px;
+}
+.pro3{
+    margin-left: 100px;
+    width: 450px;
+    margin-top: 50px;
+    height: 500px;
+}
+#pro4{
+    font-size: 25px;
+    position: absolute;
+    top: 710px;
+    left: 500px;
+}
+#pro5{
+    font-size: 25px;
+    position: absolute;
+    top: 710px;
+    left: 550px;
+}
+#pro6{
+    font-size: 25px;
+    position: absolute;
+    top: 710px;
+    left: 600px;
+}
+#pro7{
+    font-size: 25px;
+    position: absolute;
+    top: 710px;
+    left: 925px;
+}
+.pro8{
+    position: absolute;
+    top: 700px;
+    width: 500px;
+    right: 300px;
+}

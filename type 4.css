@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+}
+table{
+    margin: auto;
+    margin-top: 150px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid black;
+    padding: 20px 5px;
+    text-align: center;
+}
+th{
+    border: 1px solid black;
+}
+.text1{
+    flex-direction: column-reverse;
+    background-color: rgba(255, 255, 0, 0.822)
+}
+.text2{
+    background-color: orange;
+}
+.text3{
+    background-color: rgba(255, 255, 0, 0.822); 
+}
+.text4{
+    background-color: bisque;
+}
+.text5{
+    background-color: bisque;
+}
+.text6{
+    background-color: bisque;
+}
+.text7{
+    background-color: bisque;
+}
+.text8{
+    background-color: bisque;
+}
+.text9{
+    background-color: bisque;
+}
+.block1{
+    background-color: bisque;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.block2{
+    background-color: bisque;
+    padding-left: 12px;
+    padding-right: 12px; 
+}
+.block3{
+    background-color: bisque;
+    padding-left: 12px;
+    padding-right: 12px; 
+}
+.block4{
+    background-color: bisque;
+    padding-left: 12px;
+    padding-right: 12px; 
+}
+.block5{
+    background-color: bisque;
+    padding-left: 12px;
+    padding-right: 12px; 
+}

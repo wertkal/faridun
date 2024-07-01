@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+table{
+    margin: auto;
+    margin-top: 130px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th{
+    text-align: start;
+    border: 1px solid black;
+    padding: 5px 20px;
+    background-color: gray;
+}
+td{
+    border: 1px solid black;
+}
+.text1{
+    background-color: gray;
+}
+.text2{
+    background-color: rgb(210, 200, 200);
+}
+.text3{
+    background-color: rgb(210, 200, 200);
+}
+.text4{
+    background-color: rgb(210, 200, 200);
+}
+.text5{
+    background-color: rgb(210, 200, 200);
+}
+.text6{
+    text-align: end;
+}
+.text7{
+    text-align: end;
+}
+.text8{
+    text-align: end;
+}
+.text9{
+    text-align: end;
+}

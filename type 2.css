@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+table{
+    border: 1px solid black;
+    border-collapse: ;
+    margin: auto;
+    margin-top: 100px;
+    border-collapse: collapse;
+}
+th{
+    border: 1px solid black;
+    padding: 10px 20px;
+}
+td{
+    border: 1px solid black;
+    padding: 20px 30px;
+}
+.text1{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
+.text2{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+.text3{
+    width: 50px;
+    height: 50px;
+    background-color: green;
+}
+.text4{
+    font-size: 30px;
+    margin-right: 500px;
+    margin-bottom: 50px;
+}
+.text5{
+    margin-right: 500px;
+}
